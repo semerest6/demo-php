@@ -1,5 +1,0 @@
-Synthetic GitHub connector test.
-Cycle: 3
-Version: 2
-UTF-8: Проверка
-No user data.
