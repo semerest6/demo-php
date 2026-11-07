@@ -1,3 +1,0 @@
-Synthetic Git data fixture.
-Cycle: 3
-UTF-8: Проверка
