@@ -1,0 +1,4 @@
+Synthetic GitHub connector test.
+Cycle: 2
+Version: 1
+No user data.
